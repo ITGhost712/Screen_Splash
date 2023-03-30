@@ -38,7 +38,7 @@ class _SplashScreenState extends State<SplashScreen> {
     return Scaffold(
       body: Center(
         child: Text(
-          'My App',
+          '20-ARID-453',
           style: TextStyle(
             fontSize: 50.0,
             fontWeight: FontWeight.bold,
